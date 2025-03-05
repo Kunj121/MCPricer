@@ -3,6 +3,7 @@
 #include "EuropeanPut.h"
 #include "Option.h"
 #include "MCPricer.h"
+#include <vector>
 
 using namespace std;
 

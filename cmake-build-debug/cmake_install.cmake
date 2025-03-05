@@ -1,4 +1,4 @@
-# Install script for directory: /Users/kunjshah/Downloads/C++/Black_Scholes_MC_Pricer
+# Install script for directory: /Users/kunjshah/Downloads/C++/Black_Scholes_MC_Tree
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -52,6 +52,6 @@ endif()
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-  file(WRITE "/Users/kunjshah/Downloads/C++/Black_Scholes_MC_Pricer/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+  file(WRITE "/Users/kunjshah/Downloads/C++/Black_Scholes_MC_Tree/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
 endif()

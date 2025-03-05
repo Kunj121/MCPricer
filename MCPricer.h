@@ -17,6 +17,7 @@ class MCPricer
 
 double BoxMuller();
 double max(double a, double b);
+double normal_dist_generator(double mean, double std);
 
 
 
