@@ -49,3 +49,4 @@ double Option::getTimeToExpiration() const {
 double Option::getStrike() const {
     return K_;
 }
+
